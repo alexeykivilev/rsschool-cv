@@ -3,10 +3,10 @@
 ## Alexey Kivilev 
 *** 
 ## Contact information: 
-**Country:** *Russia*
-**City:** *Chelyabinsk*
-**Phone:** *+7 999 999 9999*
-**E-mail:** *kivilevalexey@gmail.com*
+**Country:** *Russia* <br>
+**City:** *Chelyabinsk* <br>
+**Phone:** *+7 999 999 9999* <br>
+**E-mail:** *kivilevalexey@gmail.com* <br>
 *** 
 ## About me
 Pre-middle QA-Engineer.
