@@ -10,4 +10,10 @@
 *** 
 ## About me
 Pre-middle QA-Engineer.
+***
+## Skills
+* HTML/CSS/JS
+* SQL
+* REST-API
+
 
