@@ -12,8 +12,11 @@
 Pre-middle QA-Engineer.
 ***
 ## Skills
+* Manual testing
 * HTML/CSS/JS
 * SQL
-* REST-API
-
+* REST-API - (including Postman, Swagger UI, Soap UI)
+***
+## Bio
+1 year of experience in manual testing.
 
